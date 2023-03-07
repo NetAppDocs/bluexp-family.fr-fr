@@ -231,4 +231,9 @@
   <block id="452cd4df7b0d5eb1156519a2f3b0206b" category="paragraph">Il s'agit d'un ID généré par le système qui correspond à votre courrier électronique. Sur la page *NSS Management*, vous pouvez afficher votre courriel à partir du <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> menu.</block>
   <block id="fd02e84624a2fdfd58787131aa2820b5" category="list-text">Si vous avez besoin d'actualiser vos jetons d'identification de connexion, il existe également une option *mettre à jour les informations d'identification* dans le <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> menu.</block>
   <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">Cette option vous invite à vous reconnecter. Notez que le jeton de ces comptes expire après 90 jours. Une notification sera publiée pour vous en informer.</block>
+  <block id="cf6a3994dac804af910024cf740e14ac" category="list-text">Vous pouvez désormais gérer les compartiments Amazon S3 dans les comptes AWS où le connecteur est installé.</block>
+  <block id="72098f7f145b12a125b92539edd37f4a" category="inline-link">Gestion des compartiments Amazon S3</block>
+  <block id="8a4a49cb4536baac7f58e0eb6e2dac29" category="list-text"><block ref="8a4a49cb4536baac7f58e0eb6e2dac29" category="inline-link-rx"></block></block>
+  <block id="d79294e72dc3584cc12c98a7a931315d" category="sidebar">Le stockage Amazon S3</block>
+  <block id="4b271c8c28b8ccb8e638e54186acac01" category="sidebar">Découvrez et gérez les compartiments Amazon S3 dans vos comptes AWS.</block>
 </blocks>
