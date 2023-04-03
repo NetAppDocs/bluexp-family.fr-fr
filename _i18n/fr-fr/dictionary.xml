@@ -238,4 +238,8 @@
   <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">*Pièce jointe (facultatif)* : téléchargez jusqu'à cinq pièces jointes, une à la fois.</block>
   <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">Les pièces jointes sont limitées à 25 Mo par fichier. Les extensions de fichier suivantes sont prises en charge : txt, log, PDF, jpg/JPEG, rtf, doc/docx, xls/xlsx et csv.</block>
   <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*Mettre à jour les notes de cas* : fournir des détails supplémentaires sur votre problème ou sélectionner *Télécharger les fichiers* pour joindre jusqu'à cinq fichiers.</block>
+  <block id="723ffd15eb7b4453afd0fa0af42c04c3" category="sidebar">Efficacité économique</block>
+  <block id="068ff21264880d35ad4153fad90e3828" category="sidebar">Identifiez les clusters dont la capacité est faible, actuelle ou prévue, et implémentez le Tiering des données ou des recommandations en matière de capacité supplémentaire.</block>
+  <block id="efc0c4f71709b261c273fb935757cfae" category="sidebar">Résilience opérationnelle</block>
+  <block id="00ac035a0893138aed2f04da8c8223d3" category="sidebar">Implémentez des mesures correctives dans la configuration automatisée des firmwares et logiciels pour préserver l'état des clusters ONTAP.</block>
 </blocks>

@@ -141,6 +141,13 @@ product-family:
     summary: Découvrez les systèmes E-Series et bénéficiez d'une vue complète sur
       les données dans l'ensemble de votre environnement multicloud hybride.
     tags: all, storage
+  - title: Efficacité économique
+    icon: "./media/icon-economic-efficiency.png"
+    url: https://docs.netapp.com/us-en/bluexp-economic-efficiency/index.html
+    summary: Identifiez les clusters dont la capacité est faible, actuelle ou prévue,
+      et implémentez le Tiering des données ou des recommandations en matière de capacité
+      supplémentaire.
+    tags: all, governance
   - title: Cache global de fichiers
     icon: "./media/icon-cache.png"
     url: https://docs.netapp.com/us-en/cloud-manager-file-cache/index.html
@@ -158,11 +165,17 @@ product-family:
     summary: Gérez vos systèmes NetApp AFF et FAS de BlueXP à l'aide de System Manager
       et des services de données de BlueXP.
     tags: all, storage
+  - title: Résilience opérationnelle
+    icon: "./media/icon-op-resiliency.png"
+    url: https://docs.netapp.com/us-en/bluexp-operational-resiliency/index.html
+    summary: Implémentez des mesures correctives dans la configuration automatisée
+      des firmwares et logiciels pour préserver l'état des clusters ONTAP.
+    tags: all, health
   - title: Protection contre les ransomwares
     icon: "./media/icon-ransomware.png"
     url: https://docs.netapp.com/us-en/cloud-manager-ransomware/index.html
     summary: Évaluez la résilience de vos données face à une cyber-attaque.
-    tags: all, protection
+    tags: all, governance
   - title: La réplication
     icon: "./media/icon-replication.png"
     url: https://docs.netapp.com/us-en/cloud-manager-replication/index.html
