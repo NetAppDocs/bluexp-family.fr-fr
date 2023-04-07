@@ -132,7 +132,6 @@
   <block id="8c4aa541ee911e8d80451ef8cc304806" category="sidebar">Stockage</block>
   <block id="acef5d51685932cc367c2b457797c936" category="sidebar">Bienvenue dans BlueXP</block>
   <block id="4d76faa1554725dd328ee6ba5b97a819" category="sidebar">Découvrez l'introduction de BlueXP.</block>
-  <block id="30b77b282030e8985671bcc89e3e4d74" category="sidebar">Configuration et administration</block>
   <block id="679d45f8d9939047ac9efb03e95c425c" category="sidebar">Découvrez comment commencer à utiliser BlueXP et administrer les connecteurs, les comptes, et bien plus encore.</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Notes de mise à jour</block>
   <block id="800627e5502a4be1f5e84b9c5fdc990e" category="sidebar">Découvrez les nouveautés de BlueXP.</block>
@@ -241,4 +240,5 @@
   <block id="b43ac04bee8d38f5824a93a273f0ad9d" category="summary">NetApp BlueXP est une évolution de Cloud Manager. BlueXP est un plan de contrôle unifié qui offre une expérience multicloud hybride pour le stockage et les services de données dans les environnements sur site et cloud.</block>
   <block id="6c253a8aff5dfa835a77545b3006abc8" category="sidebar">Clusters ONTAP sur site</block>
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
+  <block id="bb50e2459e4e016aa4b14a56adb2358f" category="sidebar">Configuration et administration</block>
 </blocks>
