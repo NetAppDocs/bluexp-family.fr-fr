@@ -135,24 +135,16 @@
   <block id="679d45f8d9939047ac9efb03e95c425c" category="sidebar">Découvrez comment commencer à utiliser BlueXP et administrer les connecteurs, les comptes, et bien plus encore.</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Notes de mise à jour</block>
   <block id="800627e5502a4be1f5e84b9c5fdc990e" category="sidebar">Découvrez les nouveautés de BlueXP.</block>
-  <block id="3de329d856b09fe94d05567c4761f82d" category="sidebar">Conseiller digital (anciennement Active IQ)</block>
   <block id="92086381b2a7391ff015bfa58d13afc9" category="sidebar">Des informations exploitables pour un état optimal du stockage.</block>
   <block id="18cf072964a583150dd247485ba75b92" category="sidebar">Amazon FSX pour ONTAP</block>
   <block id="977f48c0ad107bab5b00e6582e3d62b5" category="sidebar">Exploitez toutes les fonctionnalités d'ONTAP en tant que service géré par AWS.</block>
   <block id="11ab9ad674d9803df9eb747b060ea178" category="sidebar">Gérez vos ressources cloud par programmation.</block>
-  <block id="ca9106b8b82ff55b6fdce530ccb952a7" category="sidebar">AppTemplate</block>
   <block id="9b125025fd2aeab175107728e40c19f1" category="sidebar">Automatisez les actions dans BlueXP pour accélérer le provisionnement et éliminer le travail manuel.</block>
   <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="sidebar">Azure NetApp Files</block>
   <block id="7f0915fd413dcc718e35e39d644d92ac" category="sidebar">Service de stockage de fichiers haute performance pour vos applications métier stratégiques.</block>
-  <block id="dad57e95fc9a5390302ad830888cbdb9" category="sidebar">La sauvegarde dans le cloud</block>
   <block id="a3460dd01b0f0c32632246bf209e730f" category="sidebar">Sauvegardez et restaurez des données dans le cloud et sur site.</block>
-  <block id="d882bf73cd5caf1e5aa39edbf893ad74" category="sidebar">Sens des données cloud</block>
   <block id="2090f2d846793f153b9266c648b079ef" category="sidebar">Gérez la confidentialité de vos données applicatives et de vos environnements cloud.</block>
-  <block id="b4f83b03956523a39e8bbbd0895f0f29" category="sidebar">Cloud Insights</block>
-  <block id="c50b91dc494c1ae78bb56ca7f5fb13a9" category="sidebar">Contrôlez les performances et l'utilisation de vos charges de travail cloud.</block>
-  <block id="e367efbc26bd12c0d6ae37dd6a55ef9b" category="sidebar">Cloud Sync</block>
   <block id="9f47c7f98e6626074067a711fc1863ea" category="sidebar">Synchronisez les données entre des datastores sur site et dans le cloud.</block>
-  <block id="92d2b6aba6afa3f690540cf3dba9b633" category="sidebar">Tiering dans le cloud</block>
   <block id="c6844dc3fe4e51f03d9c9209b1f58fc4" category="sidebar">Étendez votre stockage ONTAP sur site au cloud.</block>
   <block id="117bdbda976fe8b3212bc3b6327a0a1b" category="sidebar">Cloud Volumes ONTAP</block>
   <block id="1264ff6a809549b27ab6285b6ab793f2" category="sidebar">Rendez votre stockage cloud plus économique, intelligent, conforme et sécurisé.</block>
@@ -160,15 +152,12 @@
   <block id="d63057df831de033bf2e3c5f97ec80ba" category="sidebar">Service de fichiers cloud natif avec les performances du Flash</block>
   <block id="b0cee72642f5457a71ddd0b49efb6d93" category="sidebar">Cloud Volumes Service pour Google Cloud</block>
   <block id="862d06f5b0779c31053bcadc07e8028b" category="sidebar">Sécurisez, protégez et accélérez le stockage de vos fichiers.</block>
-  <block id="a623a8d0366bf079411aa30be45b2d10" category="sidebar">Calcul</block>
   <block id="a17d9dd4943af64ba04db4529621baf0" category="sidebar">Gagnez en visibilité sur vos dépenses de cloud computing et identifiez les économies potentielles.</block>
   <block id="6b068f0a943d421535c7d8d412ee3522" category="sidebar">Systèmes E-Series</block>
   <block id="25e0ccd395342edee81a87cd62b00061" category="sidebar">Découvrez les systèmes E-Series et bénéficiez d'une vue complète sur les données dans l'ensemble de votre environnement multicloud hybride.</block>
-  <block id="24e6e2f6171b43a847fe194a9a9b5cd0" category="sidebar">Cache global de fichiers</block>
   <block id="20fa9c1bc12bf7468e5d341fc1e54b7f" category="sidebar">Offrez au personnel distribué un partage de fichiers en temps réel.</block>
   <block id="85eb427901278daf26f132cb3e076914" category="sidebar">Clusters Kubernetes</block>
   <block id="94e507a2878d87e4845a941fafc1702f" category="sidebar">Gestion avancée des données des clusters Kubernetes dans votre cloud hybride.</block>
-  <block id="950604af87c30e09716e6d097eb491db" category="sidebar">Protection contre les ransomwares</block>
   <block id="0a2beb44f980a6220ce4afa12b490e4f" category="sidebar">Évaluez la résilience de vos données face à une cyber-attaque.</block>
   <block id="8c340dc334134096f68b880b42a8692c" category="sidebar">La réplication</block>
   <block id="852e5aa5bab2b81469e97f26b6e2b7f3" category="sidebar">Répliquer les données entre les systèmes de stockage pour prendre en charge la sauvegarde et la reprise après incident.</block>
@@ -236,11 +225,21 @@
   <block id="068ff21264880d35ad4153fad90e3828" category="sidebar">Identifiez les clusters dont la capacité est faible, actuelle ou prévue, et implémentez le Tiering des données ou des recommandations en matière de capacité supplémentaire.</block>
   <block id="efc0c4f71709b261c273fb935757cfae" category="sidebar">Résilience opérationnelle</block>
   <block id="00ac035a0893138aed2f04da8c8223d3" category="sidebar">Implémentez des mesures correctives dans la configuration automatisée des firmwares et logiciels pour préserver l'état des clusters ONTAP.</block>
-  <block id="ce6ca783caae4b6e998ea6268a37dfc6" category="summary">NetApp BlueXP offre à votre entreprise un seul plan de contrôle pour créer, protéger et régir les données dans vos environnements sur site et cloud. Parcourez les documents par zone de produit ou utilisez la recherche ci-dessus pour trouver du contenu n'importe où dans les documents BlueXP.</block>
   <block id="b43ac04bee8d38f5824a93a273f0ad9d" category="summary">NetApp BlueXP est une évolution de Cloud Manager. BlueXP est un plan de contrôle unifié qui offre une expérience multicloud hybride pour le stockage et les services de données dans les environnements sur site et cloud.</block>
   <block id="6c253a8aff5dfa835a77545b3006abc8" category="sidebar">Clusters ONTAP sur site</block>
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
   <block id="bb50e2459e4e016aa4b14a56adb2358f" category="sidebar">Configuration et administration</block>
-  <block id="986e1f3279b4d74444bd32d4f833afbd" category="sidebar">Portefeuille numérique</block>
   <block id="5928ade999566a2ca0d839d3c191b3f1" category="sidebar">Gérez et surveillez vos licences et vos abonnements.</block>
+  <block id="bd4152637ad88c0eb060a24cddfba1f9" category="summary">NetApp BlueXP (Cloud Manager) offre à votre entreprise un plan de contrôle unique pour créer, protéger et régir les données dans vos environnements sur site et cloud. Parcourez les documents par zone de produit ou utilisez la recherche ci-dessus pour trouver du contenu n'importe où dans les documents BlueXP.</block>
+  <block id="4d82a1ec1af02725042c8c785564ee7a" category="sidebar">Amazon FSX pour NetApp ONTAP</block>
+  <block id="1220376b19b37830a4bf0ca859f13117" category="sidebar">Sauvegarde et restauration (Cloud Backup)</block>
+  <block id="ab3c79949a956f4792a7697fdb989ee5" category="sidebar">Classification (Cloud Data Sense)</block>
+  <block id="050e5016f7040ceedbd80731cdf796db" category="sidebar">Opérations cloud (calcul)</block>
+  <block id="2b09a63dc379266e4ddebf30644e5566" category="sidebar">Copie et synchronisation (Cloud Sync)</block>
+  <block id="457d79994b70adbf238bafd0fea18cb2" category="sidebar">Conseiller digital (Active IQ)</block>
+  <block id="2049421a4e8e45e83cd7cf18ffc00a12" category="sidebar">Portefeuille digital</block>
+  <block id="283a34872fecedd9a307e184eaf214e5" category="sidebar">Mise en cache à la périphérie (Global File cache)</block>
+  <block id="7478f8f98c41fc2f5747e6f31892fe6f" category="sidebar">Protection par ransomware</block>
+  <block id="f795757823b59c3b3206b50b2da3e5c0" category="sidebar">Correction (AppTemplate)</block>
+  <block id="1d0bd4d6c0b9e6459f709106d8874b1d" category="sidebar">Tiering (NetApp Cloud Tiering)</block>
 </blocks>
