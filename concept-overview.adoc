@@ -22,7 +22,7 @@ NetApp BlueXP est une évolution de Cloud Manager. BlueXP est un plan de contrô
 
 BlueXP vous permet de gérer l'ensemble de vos ressources de stockage et de données à partir d'une interface unique.
 
-Vous pouvez utiliser BlueXP pour créer et gérer le stockage cloud (par exemple, Cloud Volumes ONTAP et Azure NetApp Files), utiliser des services de données (par exemple, Cloud Backup et Cloud Data Sense) et contrôler de nombreux périphériques de stockage sur site et à la périphérie.
+Vous pouvez utiliser BlueXP pour créer et gérer du stockage cloud (par exemple, Cloud Volumes ONTAP et Azure NetApp Files), déplacer, protéger et analyser les données, et contrôler de nombreux périphériques de stockage sur site et en périphérie.
 
 * https://cloud.netapp.com["Pour en savoir plus, consultez le site Web BlueXP"^]
 * https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["Lancez-vous avec BlueXP"^]
@@ -32,7 +32,7 @@ Vous pouvez utiliser BlueXP pour créer et gérer le stockage cloud (par exemple
 
 == Nouveau menu de navigation
 
-Dans le menu de navigation de BlueXP, les services de données sont désormais organisés par catégories et sont nommés en fonction de leur fonctionnalité. Par exemple, vous pouvez accéder à Cloud Backup en accédant à la catégorie *protection* et en sélectionnant *sauvegarde et restauration*.
+Dans le menu de navigation de BlueXP, les services sont désormais organisés par catégories et nommés en fonction de leur fonctionnalité. Par exemple, vous pouvez accéder à BlueXP Backup and Recovery (Cloud Backup) à partir de la catégorie *protection*.
 
 image:screenshot-navigation-menu.png["Capture d'écran du menu de navigation de BlueXP qui affiche des catégories telles que le stockage et l'intégrité."]
 
@@ -42,7 +42,7 @@ image:screenshot-navigation-menu.png["Capture d'écran du menu de navigation de 
 
 * Vous pouvez désormais gérer les compartiments Amazon S3 dans les comptes AWS où le connecteur est installé.
 * Vous pouvez désormais gérer davantage de systèmes de stockage sur site, comme les baies E-Series et StorageGRID.
-* Vous pouvez désormais utiliser les services de données précédemment disponibles uniquement en tant que service autonome avec une interface utilisateur distincte, telle que Digital Advisor (anciennement Active IQ).
+* Vous pouvez désormais utiliser les services de données auparavant uniquement disponibles en tant que service autonome avec une interface utilisateur séparée, telle que BlueXP Digital Advisor (Active IQ).
 
 
 *En savoir plus*

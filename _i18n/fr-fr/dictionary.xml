@@ -3,18 +3,15 @@
   <block id="a0d9a83eb0552b7cc89c8d441a15ede1" category="doc">Bienvenue dans NetApp BlueXP</block>
   <block id="4860911c5c67c5e04987564884e8b85e" category="section-title">D'une expérience de gestion unifiée</block>
   <block id="c3eb39b445a75ad05505fe32c6f061df" category="paragraph">BlueXP vous permet de gérer l'ensemble de vos ressources de stockage et de données à partir d'une interface unique.</block>
-  <block id="e2f4ed3372452716e062769cee896707" category="paragraph">Vous pouvez utiliser BlueXP pour créer et gérer le stockage cloud (par exemple, Cloud Volumes ONTAP et Azure NetApp Files), utiliser des services de données (par exemple, Cloud Backup et Cloud Data Sense) et contrôler de nombreux périphériques de stockage sur site et à la périphérie.</block>
   <block id="fc8ff23d0bf81d0f8427b5c75023f80e" category="inline-link">Pour en savoir plus, consultez le site Web BlueXP</block>
   <block id="8ec0fdd1845d3a5b2aa52e5cc7bce6ee" category="list-text"><block ref="8ec0fdd1845d3a5b2aa52e5cc7bce6ee" category="inline-link-rx"></block></block>
   <block id="61b173efd5c260fd3e3f446d9d4b37e7" category="inline-link">Lancez-vous avec BlueXP</block>
   <block id="790c95b0226a2581bfc7d45871227daf" category="list-text"><block ref="790c95b0226a2581bfc7d45871227daf" category="inline-link-rx"></block></block>
   <block id="31f0834695d820dc381e57397e466d12" category="section-title">Nouveau menu de navigation</block>
-  <block id="fd1529b541f9947e3defd06b8efbfca3" category="paragraph">Dans le menu de navigation de BlueXP, les services de données sont désormais organisés par catégories et sont nommés en fonction de leur fonctionnalité. Par exemple, vous pouvez accéder à Cloud Backup en accédant à la catégorie *protection* et en sélectionnant *sauvegarde et restauration*.</block>
   <block id="7cb04a79785e33be744a126127319a35" category="inline-image-macro">Capture d'écran du menu de navigation de BlueXP qui affiche des catégories telles que le stockage et l'intégrité.</block>
   <block id="e3a2069a256a46b571b57fe46324f5c0" category="paragraph"><block ref="e3a2069a256a46b571b57fe46324f5c0" category="inline-image-macro-rx" type="image"></block></block>
   <block id="68d4f3d7366b4ea59a65f0c44540e368" category="section-title">Intégrations de nouveaux produits</block>
   <block id="054332983ba253fe4573945dcdbc8109" category="list-text">Vous pouvez désormais gérer davantage de systèmes de stockage sur site, comme les baies E-Series et StorageGRID.</block>
-  <block id="008dd953f4aadef1cabe373c88ac29c1" category="list-text">Vous pouvez désormais utiliser les services de données précédemment disponibles uniquement en tant que service autonome avec une interface utilisateur distincte, telle que Digital Advisor (anciennement Active IQ).</block>
   <block id="7a58e46486e93797ee672a65eac3170f" category="paragraph">*En savoir plus*</block>
   <block id="23c19e9851a45bd1a62c97b5c51e16ab" category="inline-link">Gérez les systèmes de stockage E-Series</block>
   <block id="652eac6ffac6ea42cdd10bbba7bc6c0c" category="list-text"><block ref="652eac6ffac6ea42cdd10bbba7bc6c0c" category="inline-link-rx"></block></block>
@@ -242,4 +239,7 @@
   <block id="7478f8f98c41fc2f5747e6f31892fe6f" category="sidebar">Protection par ransomware</block>
   <block id="f795757823b59c3b3206b50b2da3e5c0" category="sidebar">Correction (AppTemplate)</block>
   <block id="1d0bd4d6c0b9e6459f709106d8874b1d" category="sidebar">Tiering (NetApp Cloud Tiering)</block>
+  <block id="9d881c2e8fdc167a489e069a47255ba9" category="paragraph">Vous pouvez utiliser BlueXP pour créer et gérer du stockage cloud (par exemple, Cloud Volumes ONTAP et Azure NetApp Files), déplacer, protéger et analyser les données, et contrôler de nombreux périphériques de stockage sur site et en périphérie.</block>
+  <block id="75d46f12940616f043309dfb109d814d" category="paragraph">Dans le menu de navigation de BlueXP, les services sont désormais organisés par catégories et nommés en fonction de leur fonctionnalité. Par exemple, vous pouvez accéder à BlueXP Backup and Recovery (Cloud Backup) à partir de la catégorie *protection*.</block>
+  <block id="bcaa38b35b3f595027217ec10755368a" category="list-text">Vous pouvez désormais utiliser les services de données auparavant uniquement disponibles en tant que service autonome avec une interface utilisateur séparée, telle que BlueXP Digital Advisor (Active IQ).</block>
 </blocks>
