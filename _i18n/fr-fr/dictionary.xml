@@ -239,7 +239,7 @@
   <block id="7478f8f98c41fc2f5747e6f31892fe6f" category="sidebar">Protection par ransomware</block>
   <block id="f795757823b59c3b3206b50b2da3e5c0" category="sidebar">Correction (AppTemplate)</block>
   <block id="1d0bd4d6c0b9e6459f709106d8874b1d" category="sidebar">Tiering (NetApp Cloud Tiering)</block>
-  <block id="9d881c2e8fdc167a489e069a47255ba9" category="paragraph">Vous pouvez utiliser BlueXP pour créer et gérer du stockage cloud (par exemple, Cloud Volumes ONTAP et Azure NetApp Files), déplacer, protéger et analyser les données, et contrôler de nombreux périphériques de stockage sur site et en périphérie.</block>
   <block id="75d46f12940616f043309dfb109d814d" category="paragraph">Dans le menu de navigation de BlueXP, les services sont désormais organisés par catégories et nommés en fonction de leur fonctionnalité. Par exemple, vous pouvez accéder à BlueXP Backup and Recovery (Cloud Backup) à partir de la catégorie *protection*.</block>
   <block id="bcaa38b35b3f595027217ec10755368a" category="list-text">Vous pouvez désormais utiliser les services de données auparavant uniquement disponibles en tant que service autonome avec une interface utilisateur séparée, telle que BlueXP Digital Advisor (Active IQ).</block>
+  <block id="a28e6578744ceeb545878235d414e497" category="paragraph">Vous pouvez utiliser BlueXP pour créer et gérer du stockage cloud (par exemple, Cloud Volumes ONTAP et Azure NetApp Files), déplacer, protéger et analyser les données, et contrôler de nombreux systèmes de stockage sur site et en périphérie.</block>
 </blocks>
