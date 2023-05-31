@@ -2,7 +2,6 @@
 settings:
   name: BlueXP
   platform: cloud
-  search: cloud-manager-relnotes,cloud-manager-setup-admin,cloud-manager-cloud-volumes-ontap,cloud-manager-ontap-onprem,cloud-manager-azure-netapp-files,cloud-manager-fsx-ontap,cloud-manager-cloud-volumes-service-gcp,cloud-manager-kubernetes,cloud-manager-app-template,cloud-manager-backup-restore,cloud-manager-sync,cloud-manager-data-sense,cloud-manager-tiering,cloud-manager-ransomware,cloud-manager-replication,cloud-manager-file-cache,cloud-manager-compute,cloud-manager-automation,cloud-volumes-ontap-relnotes,cloud-manager-storagegrid,cloud-manager-e-series,bluexp-s3-storage,bluexp-economic-efficiency,bluexp-operational-resiliency,bluexp-digital-wallet
   internal:
     pdf_enabled: false
   prod:
@@ -28,8 +27,6 @@ product-family:
     tags: governance
   - title: Santé
     tags: health
-  - title: Visibilité
-    tags: insights
   - title: Mobilité
     tags: mobility
   - title: La protection
@@ -44,18 +41,18 @@ product-family:
     tags: all
   - title: Configuration et administration
     icon: "./media/icon-admin.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html
+    url: https://docs.netapp.com/us-en/bluexp-setup-admin/index.html
     summary: Découvrez comment commencer à utiliser BlueXP et administrer les connecteurs,
       les comptes, et bien plus encore.
     tags: all,admin
   - title: Notes de mise à jour
     icon: "./media/icon-docs.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-relnotes/index.html
+    url: https://docs.netapp.com/us-en/bluexp-relnotes/index.html
     summary: Découvrez les nouveautés de BlueXP.
     tags: all
   - title: Amazon FSX pour NetApp ONTAP
     icon: "./media/icon-fsx.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-fsx-ontap/index.html
+    url: https://docs.netapp.com/us-en/bluexp-fsx-ontap/index.html
     summary: Exploitez toutes les fonctionnalités d'ONTAP en tant que service géré
       par AWS.
     tags: all,storage,aws
@@ -66,46 +63,46 @@ product-family:
     tags: all,storage,aws
   - title: API
     icon: "./media/icon-api.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-automation/index.html
+    url: https://docs.netapp.com/us-en/bluexp-automation/index.html
     summary: Gérez vos ressources cloud par programmation.
-    tags: all, api
+    tags: all,api
   - title: Azure NetApp Files
     icon: "./media/icon-anf.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-azure-netapp-files/index.html
+    url: https://docs.netapp.com/us-en/bluexp-azure-netapp-files/index.html
     summary: Service de stockage de fichiers haute performance pour vos applications
       métier stratégiques.
     tags: all,storage,azure
   - title: Sauvegarde et restauration (Cloud Backup)
     icon: "./media/icon-backup.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-backup-restore/index.html
+    url: https://docs.netapp.com/us-en/bluexp-backup-recovery/index.html
     summary: Sauvegardez et restaurez des données dans le cloud et sur site.
     tags: all,aws,azure,gcp,protection
   - title: Classification (Cloud Data Sense)
     icon: "./media/icon-data-sense.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-data-sense/index.html
+    url: https://docs.netapp.com/us-en/bluexp-classification/index.html
     summary: Gérez la confidentialité de vos données applicatives et de vos environnements
       cloud.
     tags: all,governance,aws,azure,gcp
   - title: Opérations cloud (calcul)
     icon: "./media/icon-compute.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-compute/index.html
+    url: https://docs.netapp.com/us-en/bluexp-cloud-ops/index.html
     summary: Gagnez en visibilité sur vos dépenses de cloud computing et identifiez
       les économies potentielles.
     tags: all,aws,extension
   - title: Cloud Volumes ONTAP
     icon: "./media/icon-cvo.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/index.html
+    url: https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/index.html
     summary: Rendez votre stockage cloud plus économique, intelligent, conforme et
       sécurisé.
     tags: all,storage,aws,azure,gcp
   - title: Cloud Volumes Service pour Google Cloud
     icon: "./media/icon-cvs.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-service-gcp/index.html
+    url: https://docs.netapp.com/us-en/bluexp-cloud-volumes-service-gcp/index.html
     summary: Sécurisez, protégez et accélérez le stockage de vos fichiers.
     tags: all,storage,gcp
   - title: Copie et synchronisation (Cloud Sync)
     icon: "./media/icon-sync.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-sync/index.html
+    url: https://docs.netapp.com/us-en/bluexp-copy-sync/index.html
     summary: Synchronisez les données entre des datastores sur site et dans le cloud.
     tags: all,aws,azure,gcp,mobility
   - title: Conseiller digital (Active IQ)
@@ -120,7 +117,7 @@ product-family:
     summary: Gérez et surveillez vos licences et vos abonnements.
   - title: Systèmes E-Series
     icon: "./media/icon-e-series.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-e-series/index.html
+    url: https://docs.netapp.com/us-en/bluexp-e-series/index.html
     summary: Découvrez les systèmes E-Series et bénéficiez d'une vue complète sur
       les données dans l'ensemble de votre environnement multicloud hybride.
     tags: all,storage
@@ -133,18 +130,18 @@ product-family:
     tags: all,governance
   - title: Mise en cache à la périphérie (Global File cache)
     icon: "./media/icon-cache.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-file-cache/index.html
+    url: https://docs.netapp.com/us-en/bluexp-edge-caching/index.html
     summary: Offrez au personnel distribué un partage de fichiers en temps réel.
-    tags: all, mobility, aws, azure, gcp
+    tags: all,mobility,aws,azure,gcp
   - title: Clusters Kubernetes
     icon: "./media/icon-kubernetes.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-kubernetes/index.html
+    url: https://docs.netapp.com/us-en/bluexp-kubernetes/index.html
     summary: Gestion avancée des données des clusters Kubernetes dans votre cloud
       hybride.
-    tags: all, storage, aws, azure
+    tags: all,storage,aws,azure
   - title: Clusters ONTAP sur site
     icon: "./media/icon-onprem.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/index.html
+    url: https://docs.netapp.com/us-en/bluexp-ontap-onprem/index.html
     summary: Gérez vos systèmes NetApp AFF et FAS de BlueXP à l'aide de System Manager
       et des services de données de BlueXP.
     tags: all,storage
@@ -156,28 +153,28 @@ product-family:
     tags: all,health
   - title: Protection par ransomware
     icon: "./media/icon-ransomware.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-ransomware/index.html
+    url: https://docs.netapp.com/us-en/bluexp-ransomware-protection/index.html
     summary: Évaluez la résilience de vos données face à une cyber-attaque.
     tags: all,governance,protection
   - title: Correction (AppTemplate)
     icon: "./media/icon-app-template.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-app-template/index.html
+    url: https://docs.netapp.com/us-en/bluexp-remediation/index.html
     summary: Automatisez les actions dans BlueXP pour accélérer le provisionnement
       et éliminer le travail manuel.
     tags: all,health
   - title: La réplication
     icon: "./media/icon-replication.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-replication/index.html
+    url: https://docs.netapp.com/us-en/bluexp-replication/index.html
     summary: Répliquer les données entre les systèmes de stockage pour prendre en
       charge la sauvegarde et la reprise après incident.
     tags: all,protection
   - title: StorageGRID
     icon: "./media/icon-storagegrid.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-storagegrid/index.html
+    url: https://docs.netapp.com/us-en/bluexp-storagegrid/index.html
     summary: Découvrez et gérez vos systèmes StorageGRID.
-    tags: all, storage
+    tags: all,storage
   - title: Tiering (NetApp Cloud Tiering)
     icon: "./media/icon-tiering.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-tiering/index.html
+    url: https://docs.netapp.com/us-en/bluexp-tiering/index.html
     summary: Étendez votre stockage ONTAP sur site au cloud.
     tags: all,aws,azure,gcp,mobility
