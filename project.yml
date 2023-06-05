@@ -67,6 +67,11 @@ product-family:
     url: https://docs.netapp.com/us-en/bluexp-automation/index.html
     summary: Gérez vos ressources cloud par programmation.
     tags: all,api
+  - title: Stockage Azure Blob
+    icon: "./media/icon-azure-blob.png"
+    url: https://docs.netapp.com/us-en/bluexp-blob-storage/index.html
+    summary: Découvrez et gérez le stockage Azure Blob dans vos abonnements Azure.
+    tags: all,storage
   - title: Azure NetApp Files
     icon: "./media/icon-anf.png"
     url: https://docs.netapp.com/us-en/bluexp-azure-netapp-files/index.html
