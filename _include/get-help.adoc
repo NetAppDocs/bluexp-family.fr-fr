@@ -46,10 +46,6 @@ Outre les options d'auto-support mentionnées ci-dessus, vous pouvez travailler 
 .. Cliquez sur *appelez-nous* si vous souhaitez parler avec quelqu'un au téléphone. Vous serez dirigé vers une page netapp.com qui répertorie les numéros de téléphone que vous pouvez appeler.
 .. Cliquez sur *Créer un dossier* pour ouvrir un dossier auprès d'un spécialiste du support NetApp :
 +
-*** *Compte sur le site de support NetApp* : sélectionnez le compte NSS applicable associé à la personne qui ouvre le dossier de support. Cette personne sera le contact principal avec NetApp en plus de l'e-mail ci-dessous.
-+
-Si vous ne voyez pas votre compte NSS, vous pouvez accéder à l'onglet *NSS Management* de la section support de BlueXP pour l'ajouter.
-
 *** *Service* : sélectionnez le service auquel le problème est associé. Par exemple, BlueXP lorsqu'il est spécifique à un problème de support technique avec des flux de travail ou des fonctionnalités au sein du service.
 *** *Environnement de travail* : si applicable au stockage, sélectionnez *Cloud Volumes ONTAP* ou *sur site*, puis l'environnement de travail associé.
 +
