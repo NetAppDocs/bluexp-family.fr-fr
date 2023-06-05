@@ -243,4 +243,6 @@
   <block id="c7b7a5ae9f37fd7d24e4d641b9186fe9" category="paragraph">Cette erreur peut signifier que le compte NSS et la société d'enregistrement auquel il est associé n'est pas la même société d'enregistrement pour le numéro de série du compte BlueXP (par exemple 960xxxx) ou le numéro de série de l'environnement de travail. Vous pouvez demander de l'aide en utilisant l'une des options suivantes :</block>
   <block id="ac7b3cf10ea08c788a374e0291742517" category="sidebar">Rapports de migration</block>
   <block id="724a3079d3074b0468d00facd32bb57e" category="sidebar">Identifiez le nombre de fichiers, la profondeur et l'étendue des arborescences des systèmes de fichiers, les fichiers les plus volumineux et bien plus encore dans votre environnement de stockage.</block>
+  <block id="ff45d71e69fb5930de79de7c94326d7b" category="sidebar">Mise en cache du volume</block>
+  <block id="d0e71bba7a9d538f008b05b19274bfe1" category="sidebar">Créez un volume de cache inscriptible pour accélérer l'accès aux données ou décharger le trafic des volumes fortement sollicités.</block>
 </blocks>
