@@ -186,6 +186,11 @@ product-family:
     url: https://docs.netapp.com/us-en/bluexp-storagegrid/index.html
     summary: Découvrez et gérez vos systèmes StorageGRID.
     tags: all,storage
+  - title: Tableau de bord durabilité
+    icon: "./media/icon-sustainability.png"
+    url: https://docs.netapp.com/us-en/active-iq/concept_understand_sustainability_dashboard.html
+    summary: Analysez la durabilité de votre système de stockage.
+    tags: all,health
   - title: Tiering (NetApp Cloud Tiering)
     icon: "./media/icon-tiering.png"
     url: https://docs.netapp.com/us-en/bluexp-tiering/index.html
