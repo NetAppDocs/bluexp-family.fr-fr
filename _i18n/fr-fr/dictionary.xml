@@ -249,4 +249,6 @@
   <block id="fbdd0eee7f6077dcd3ac16cc88517d62" category="sidebar">Découvrez et gérez le stockage Azure Blob dans vos abonnements Azure.</block>
   <block id="072d1a387472fb47fdfa33e48ff08ffd" category="sidebar">Tableau de bord durabilité</block>
   <block id="b6ec628f73e9b33a6ae94b2c3ef2879b" category="sidebar">Analysez la durabilité de vos systèmes de stockage.</block>
+  <block id="833c2c211a541e50ad94433664e4b5c1" category="sidebar">Google Cloud Storage</block>
+  <block id="195aba5a6e7c41123fc8903b34a99aeb" category="sidebar">Découvrez et gérez les compartiments de stockage cloud dans votre compte Google.</block>
 </blocks>

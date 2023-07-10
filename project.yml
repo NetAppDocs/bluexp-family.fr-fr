@@ -140,6 +140,12 @@ product-family:
     url: https://docs.netapp.com/us-en/bluexp-edge-caching/index.html
     summary: Offrez au personnel distribué un partage de fichiers en temps réel.
     tags: all,mobility,aws,azure,gcp
+  - title: Google Cloud Storage
+    icon: "./media/icon-google-cloud-storage.png"
+    url: https://docs.netapp.com/us-en/bluexp-google-cloud-storage/index.html
+    summary: Découvrez et gérez les compartiments de stockage cloud dans votre compte
+      Google.
+    tags: all,storage
   - title: Clusters Kubernetes
     icon: "./media/icon-kubernetes.png"
     url: https://docs.netapp.com/us-en/bluexp-kubernetes/index.html
