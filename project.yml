@@ -125,7 +125,7 @@ product-family:
   - title: Reprise après incident
     icon: "./media/icon-disaster-recovery.png"
     url: https://docs.netapp.com/us-en/bluexp-disaster-recovery/index.html
-    tags: all, protection
+    tags: all,protection
     summary: Protégez les workloads VMware sur site avec VMware Cloud sur Amazon FSX
       pour ONTAP en tant que site de reprise d'activité.
   - title: Systèmes E-Series
