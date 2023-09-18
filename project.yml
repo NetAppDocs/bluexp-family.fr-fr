@@ -68,6 +68,12 @@ product-family:
     url: https://docs.netapp.com/us-en/bluexp-automation/index.html
     summary: Gérez vos ressources cloud par programmation.
     tags: all,api
+  - title: Catalogue d'automatisation
+    icon: "./media/icon-api.png"
+    url: https://docs.netapp.com/us-en/netapp-automation/solutions/bac-overview.html
+    summary: Utilisez des solutions basées sur des scripts pour automatiser le déploiement
+      et l'intégration des produits et services NetApp.
+    tags: all,governance
   - title: Stockage Azure Blob
     icon: "./media/icon-azure-blob.png"
     url: https://docs.netapp.com/us-en/bluexp-blob-storage/index.html
