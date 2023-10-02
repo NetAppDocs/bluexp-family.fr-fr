@@ -121,7 +121,6 @@
   <block id="19874606c485ce682436c45308e50186" category="sidebar">Gérez vos systèmes NetApp AFF et FAS de BlueXP à l'aide de System Manager et des services de données de BlueXP.</block>
   <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">Avant de commencer</block>
   <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">Une fois que vous avez terminé</block>
-  <block id="0375f4855be072c7d856a0233cc21de9" category="doc">Prise en charge des solutions des fournisseurs cloud</block>
   <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="doc">Options d'auto-assistance</block>
   <block id="d88bacf2a9fdcbbc844edcba97c34e30" category="section-title">Créez un dossier avec le service de support NetApp</block>
   <block id="08d96fdd1a845d80db99e6e1dffb8bc7" category="list-text">Sur la page *Ressources*, choisissez l'une des options disponibles sous assistance technique :</block>
@@ -198,9 +197,7 @@
   <block id="0dfcbbbe02d3e96f8ad78782e8772587" category="paragraph">Il s'agit d'un ID généré par le système qui correspond à votre courrier électronique. Sur la page *NSS Management*, vous pouvez afficher votre courriel à partir du <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> menu.</block>
   <block id="fc79de85a483938f72fbcb9822ec0ae3" category="list-text">Si vous avez besoin d'actualiser vos jetons d'identification de connexion, il existe également une option *mettre à jour les informations d'identification* dans le <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> menu.</block>
   <block id="379f9cd57d97013f3f7fdd24f692a0b1" category="paragraph"><block ref="379f9cd57d97013f3f7fdd24f692a0b1" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="0c7db2bd63c891adb2c0fa4527805d72" category="paragraph">L'enregistrement du support est requis pour votre compte BlueXP et pour chaque système Cloud Volumes ONTAP.</block>
   <block id="28164bf9e881ddc9e7ff74744bfce180" category="paragraph">L'enregistrement des deux types de numéros de série offre des fonctionnalités telles que l'ouverture de tickets de support et la génération automatique de tickets. L'inscription est terminée en ajoutant des comptes du site de support NetApp (NSS) à BlueXP, comme décrit ci-dessous.</block>
-  <block id="e922b9aa0836a1d93e11cac0fe4c9004" category="paragraph">Pour obtenir un support technique sur les solutions des fournisseurs cloud suivants, consultez la section « obtention d'aide » dans la documentation BlueXP pour ce produit.</block>
   <block id="5a19febf1dcb23c10e8dcfde64ba764c" category="section-title">Enregistrez votre compte BlueXP pour bénéficier de la prise en charge NetApp</block>
   <block id="6bbc2ba432f59ab65ee3d8ac5a58336e" category="paragraph">Pour vous inscrire au support et activer les droits de support, un utilisateur de votre compte BlueXP doit associer un compte sur le site de support NetApp à sa connexion BlueXP. Le fait de vous inscrire au support NetApp dépend de la présence ou non d'un compte sur le site de support NetApp (NSS).</block>
   <block id="0c788a722f31f8f0cf36539ee04615cf" category="list-text">Sélectionnez *Ajouter des informations d'identification NSS* et suivez l'invite authentification du site de support NetApp (NSS).</block>
@@ -253,4 +250,9 @@
   <block id="c7b1fe992423d57d0e492585ff631c02" category="sidebar">Protégez les workloads VMware sur site avec VMware Cloud sur Amazon FSX pour ONTAP en tant que site de reprise d'activité.</block>
   <block id="d7a02621d52c29a3c5f7895e817cba5b" category="sidebar">Catalogue d'automatisation</block>
   <block id="5d880ed9e8bc81eec72f5edb5332637d" category="sidebar">Utilisez des solutions basées sur des scripts pour automatiser le déploiement et l'intégration des produits et services NetApp.</block>
+  <block id="ece19bab46695021f109a5e50f08bebe" category="paragraph">L'enregistrement au support est requis pour recevoir le support technique spécifique à BlueXP et à ses solutions et services de stockage. L'enregistrement au support est également requis pour activer les principaux workflows des systèmes Cloud Volumes ONTAP.</block>
+  <block id="8a3d807608e632d188a288fc5f4aa7eb" category="paragraph">L'inscription au support n'active pas le support NetApp pour un service de fichiers de fournisseur cloud. Pour obtenir de l'aide concernant un service de fichiers d'un fournisseur cloud, son infrastructure ou toute solution utilisant le service, consultez la section « obtention d'aide » de la documentation BlueXP associée à ce produit.</block>
+  <block id="522cbb900314aeb84eb5a961c5f94672" category="doc">Bénéficiez du support pour les services de fichiers d'un fournisseur cloud</block>
+  <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">Pour obtenir de l'aide concernant un service de fichiers d'un fournisseur cloud, son infrastructure ou toute solution utilisant le service, consultez la section « obtention d'aide » de la documentation BlueXP associée à ce produit.</block>
+  <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">Pour bénéficier du support technique spécifique à BlueXP et à ses solutions et services de stockage, utilisez les options de support décrites ci-dessous.</block>
 </blocks>
