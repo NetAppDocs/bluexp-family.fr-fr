@@ -37,11 +37,6 @@ product-family:
   - title: Stockage
     tags: storage
   tiles:
-  - title: Bienvenue dans BlueXP
-    icon: "./media/icon-docs.png"
-    url: concept-overview.html
-    summary: Découvrez l'introduction de BlueXP.
-    tags: all
   - title: Configuration et administration
     icon: "./media/icon-admin.png"
     url: "../bluexp-setup-admin/index.html"
@@ -86,18 +81,18 @@ product-family:
     summary: Service de stockage de fichiers haute performance pour vos applications
       métier stratégiques.
     tags: all,storage,azure
-  - title: Sauvegarde et restauration (Cloud Backup)
+  - title: Sauvegarde et restauration
     icon: "./media/icon-backup.png"
     url: "../bluexp-backup-recovery/index.html"
     summary: Sauvegardez et restaurez des données dans le cloud et sur site.
     tags: all,aws,azure,gcp,protection
-  - title: Classification (Cloud Data Sense)
+  - title: Classement
     icon: "./media/icon-data-sense.png"
     url: "../bluexp-classification/index.html"
     summary: Gérez la confidentialité de vos données applicatives et de vos environnements
       cloud.
     tags: all,governance,aws,azure,gcp
-  - title: Opérations cloud (calcul)
+  - title: OPS cloud
     icon: "./media/icon-compute.png"
     url: "../bluexp-cloud-ops/index.html"
     summary: Gagnez en visibilité sur vos dépenses de cloud computing et identifiez
@@ -114,7 +109,7 @@ product-family:
     url: "../bluexp-cloud-volumes-service-gcp/index.html"
     summary: Sécurisez, protégez et accélérez le stockage de vos fichiers.
     tags: all,storage,gcp
-  - title: Copie et synchronisation (Cloud Sync)
+  - title: Copie et synchronisation
     icon: "./media/icon-sync.png"
     url: "../bluexp-copy-sync/index.html"
     summary: Synchronisez les données entre des datastores sur site et dans le cloud.
@@ -148,7 +143,7 @@ product-family:
       et implémentez le Tiering des données ou des recommandations en matière de capacité
       supplémentaire.
     tags: all,governance
-  - title: Mise en cache à la périphérie (Global File cache)
+  - title: La mise en cache en périphérie
     icon: "./media/icon-cache.png"
     url: "../bluexp-edge-caching/index.html"
     summary: Offrez au personnel distribué un partage de fichiers en temps réel.
@@ -184,7 +179,7 @@ product-family:
     summary: Implémentez des mesures correctives dans la configuration automatisée
       des firmwares et logiciels pour préserver l'état des clusters ONTAP.
     tags: all,health
-  - title: Correction (AppTemplate)
+  - title: Résolution
     icon: "./media/icon-app-template.png"
     url: "../bluexp-remediation/index.html"
     summary: Automatisez les actions dans BlueXP pour accélérer le provisionnement
@@ -206,7 +201,7 @@ product-family:
     url: "../active-iq/learn_BlueXP_sustainability.html"
     summary: Analysez la durabilité de vos systèmes de stockage.
     tags: all,governance
-  - title: Tiering (NetApp Cloud Tiering)
+  - title: Tiering
     icon: "./media/icon-tiering.png"
     url: "../bluexp-tiering/index.html"
     summary: Étendez votre stockage ONTAP sur site au cloud.
