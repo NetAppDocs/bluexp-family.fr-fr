@@ -178,12 +178,6 @@ product-family:
     summary: Détectez les anomalies susceptibles d'entraîner des attaques par ransomware.
       Protégez et restaurez les workloads.
     tags: all,protection
-  - title: Résolution
-    icon: "./media/icon-app-template.png"
-    url: "../bluexp-remediation/index.html"
-    summary: Automatisez les actions dans BlueXP pour accélérer le provisionnement
-      et éliminer le travail manuel.
-    tags: all,health
   - title: La réplication
     icon: "./media/icon-replication.png"
     url: "../bluexp-replication/index.html"
