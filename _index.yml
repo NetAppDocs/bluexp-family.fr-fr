@@ -58,7 +58,7 @@ product-family:
     summary: Gérez vos ressources cloud par programmation.
     tags: all,api
   - title: Catalogue d'automatisation
-    icon: "./media/icon-api.png"
+    icon: "./media/icon-automation.png"
     url: https://docs.netapp.com/us-en/netapp-automation/solutions/bac-overview.html
     summary: Utilisez des solutions basées sur des scripts pour automatiser le déploiement
       et l'intégration des produits et services NetApp.
@@ -113,7 +113,7 @@ product-family:
     tags: all,health
     summary: Des informations exploitables pour un état optimal du stockage.
   - title: Portefeuille digital
-    icon: "./media/digital-wallet.png"
+    icon: "./media/icon-digital-wallet.png"
     url: "../bluexp-digital-wallet/index.html"
     tags: all,governance
     summary: Gérez et surveillez vos licences et vos abonnements.
