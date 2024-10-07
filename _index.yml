@@ -15,7 +15,7 @@ product-family:
     class: active
   - title: API
     tags: api
-  - title: Connecteurs et comptes
+  - title: Connecteurs et IAM
     tags: admin
   - title: Extensions
     tags: extension
@@ -25,6 +25,8 @@ product-family:
     tags: health
   - title: Mobilité
     tags: mobility
+  - title: Contrôle
+    tags: monitoring
   - title: La protection
     tags: protection
   - title: Stockage
@@ -33,14 +35,20 @@ product-family:
   - title: Configuration et administration
     icon: "./media/icon-admin.png"
     url: "../bluexp-setup-admin/index.html"
-    summary: Découvrez comment commencer à utiliser BlueXP et administrer les connecteurs,
-      les comptes, et bien plus encore.
+    summary: Découvrez comment utiliser BlueXP  et administrer la gestion des identités
+      et des accès, les connecteurs, etc.
     tags: all,admin
   - title: Notes de mise à jour
     icon: "./media/icon-docs.png"
     url: "../bluexp-relnotes/index.html"
     summary: Découvrez les nouveautés de BlueXP.
     tags: all
+  - title: Alertes
+    icon: "./media/icon-alerts.png"
+    url: "../bluexp-alerts/index.html"
+    summary: Consultez les problèmes liés à la capacité, à la disponibilité, aux performances,
+      à la protection et à la sécurité dans votre environnement ONTAP.
+    tags: all,monitoring
   - title: Amazon FSX pour NetApp ONTAP
     icon: "./media/icon-fsx.png"
     url: "../bluexp-fsx-ontap/index.html"

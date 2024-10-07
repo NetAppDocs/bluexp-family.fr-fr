@@ -59,14 +59,12 @@
   <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">Toute la documentation BlueXP</block>
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">Tout</block>
   <block id="db974238714ca8de634a7ce1d083a14f" category="sidebar">API</block>
-  <block id="8e5adb4723e04a1f9bf2ea7df2c5e684" category="sidebar">Connecteurs et comptes</block>
   <block id="5e2f5f3c24ae8c6ab3eca618826b0e23" category="sidebar">Extensions</block>
   <block id="5a935787d6f091fc760443ab4c491465" category="sidebar">La gouvernance</block>
   <block id="605669cab962bf944d99ce89cf9e58d9" category="sidebar">Santé</block>
   <block id="340a76e3aef8e862f5fd79411261b297" category="sidebar">Mobilité</block>
   <block id="83f1d9ca1a0c4c2fc51a371c0d773f76" category="sidebar">La protection</block>
   <block id="8c4aa541ee911e8d80451ef8cc304806" category="sidebar">Stockage</block>
-  <block id="679d45f8d9939047ac9efb03e95c425c" category="sidebar">Découvrez comment commencer à utiliser BlueXP et administrer les connecteurs, les comptes, et bien plus encore.</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Notes de mise à jour</block>
   <block id="800627e5502a4be1f5e84b9c5fdc990e" category="sidebar">Découvrez les nouveautés de BlueXP.</block>
   <block id="92086381b2a7391ff015bfa58d13afc9" category="sidebar">Des informations exploitables pour un état optimal du stockage.</block>
@@ -221,4 +219,9 @@
   <block id="0ca08a23718c0a91743dd6c0146ca353" category="paragraph">L'association des informations d'identification du site de support NetApp à votre organisation BlueXP  est nécessaire pour activer les flux de travail clés suivants pour Cloud Volumes ONTAP :</block>
   <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">L'association des informations d'identification NSS à votre organisation BlueXP  est différente du compte NSS associé à une connexion utilisateur BlueXP .</block>
   <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">Ces informations d'identification NSS sont associées à votre identifiant d'organisation BlueXP  spécifique. Les utilisateurs qui appartiennent à l'organisation BlueXP  peuvent accéder à ces informations d'identification à partir de *support &gt; gestion NSS*.</block>
+  <block id="9dab50acf79061ac1750da73c6252b67" category="sidebar">Connecteurs et IAM</block>
+  <block id="423e555c5ec3885f2bb5d9d2d6627f63" category="sidebar">Contrôle</block>
+  <block id="a0174df45f2d1f45e08cc7d39acff81f" category="sidebar">Découvrez comment utiliser BlueXP  et administrer la gestion des identités et des accès, les connecteurs, etc.</block>
+  <block id="df583ae7ba964fd4806b55904da81813" category="sidebar">Alertes</block>
+  <block id="2d5c8aeda2ab373d4a288e3bb0e951b0" category="sidebar">Consultez les problèmes liés à la capacité, à la disponibilité, aux performances, à la protection et à la sécurité dans votre environnement ONTAP.</block>
 </blocks>
