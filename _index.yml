@@ -33,6 +33,8 @@ product-family:
     tags: protection
   - title: Stockage
     tags: storage
+  - title: Charges de travail
+    tags: workloads
   tiles:
   - title: Configuration et administration
     icon: "./media/icon-admin.png"
@@ -203,3 +205,9 @@ product-family:
     summary: Créez un volume de cache inscriptible pour accélérer l'accès aux données
       ou décharger le trafic des volumes fortement sollicités.
     tags: all,mobility
+  - title: Charges de travail
+    icon: "./media/icon-workloads.png"
+    url: "../workload-family"
+    summary: Concevez, configurez et exploitez des workloads stratégiques avec Amazon
+      FSX pour NetApp ONTAP.
+    tags: all,workloads
