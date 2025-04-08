@@ -72,7 +72,6 @@
   <block id="977f48c0ad107bab5b00e6582e3d62b5" category="sidebar">Exploitez toutes les fonctionnalités d'ONTAP en tant que service géré par AWS.</block>
   <block id="11ab9ad674d9803df9eb747b060ea178" category="sidebar">Gérez vos ressources cloud par programmation.</block>
   <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="sidebar">Azure NetApp Files</block>
-  <block id="7f0915fd413dcc718e35e39d644d92ac" category="sidebar">Service de stockage de fichiers haute performance pour vos applications métier stratégiques.</block>
   <block id="a3460dd01b0f0c32632246bf209e730f" category="sidebar">Sauvegardez et restaurez des données dans le cloud et sur site.</block>
   <block id="2090f2d846793f153b9266c648b079ef" category="sidebar">Gérez la confidentialité de vos données applicatives et de vos environnements cloud.</block>
   <block id="9f47c7f98e6626074067a711fc1863ea" category="sidebar">Synchronisez les données entre des datastores sur site et dans le cloud.</block>
@@ -81,7 +80,6 @@
   <block id="1264ff6a809549b27ab6285b6ab793f2" category="sidebar">Rendez votre stockage cloud plus économique, intelligent, conforme et sécurisé.</block>
   <block id="b0cee72642f5457a71ddd0b49efb6d93" category="sidebar">Cloud Volumes Service pour Google Cloud</block>
   <block id="862d06f5b0779c31053bcadc07e8028b" category="sidebar">Sécurisez, protégez et accélérez le stockage de vos fichiers.</block>
-  <block id="a17d9dd4943af64ba04db4529621baf0" category="sidebar">Gagnez en visibilité sur vos dépenses de cloud computing et identifiez les économies potentielles.</block>
   <block id="6b068f0a943d421535c7d8d412ee3522" category="sidebar">Systèmes E-Series</block>
   <block id="25e0ccd395342edee81a87cd62b00061" category="sidebar">Découvrez les systèmes E-Series et bénéficiez d'une vue complète sur les données dans l'ensemble de votre environnement multicloud hybride.</block>
   <block id="8c340dc334134096f68b880b42a8692c" category="sidebar">La réplication</block>
@@ -201,7 +199,6 @@
   <block id="ce6ca783caae4b6e998ea6268a37dfc6" category="summary">NetApp BlueXP offre à votre entreprise un seul plan de contrôle pour créer, protéger et régir les données dans vos environnements sur site et cloud. Parcourez les documents par zone de produit ou utilisez la recherche ci-dessus pour trouver du contenu n'importe où dans les documents BlueXP.</block>
   <block id="be062cdcabbb3055334e8f19b4bdf378" category="sidebar">Sauvegarde et restauration</block>
   <block id="5c9335b28e6277ddbe0137f04e5e58a7" category="sidebar">Classement</block>
-  <block id="5b942e8f71976a7f4120006aa3ac54cc" category="sidebar">OPS cloud</block>
   <block id="e216b7a924341f796bca310d1d812baf" category="sidebar">Copie et synchronisation</block>
   <block id="337c62c6b6eb7319bae58701105e889c" category="sidebar">Tiering</block>
   <block id="7478f8f98c41fc2f5747e6f31892fe6f" category="sidebar">Protection par ransomware</block>
@@ -227,4 +224,5 @@
   <block id="795fd87bfd8c421238aba4220620e3bd" category="sidebar">Gérez vos clusters ONTAP sur site depuis BlueXP  à l'aide de System Manager et des services de données BlueXP .</block>
   <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">Charges de travail</block>
   <block id="c2f4c01ba651c0bc1e3f5840352d4723" category="sidebar">Concevez, configurez et exploitez des workloads stratégiques avec Amazon FSX pour NetApp ONTAP.</block>
+  <block id="6dcd21898198aef6fd1b4c762e770d69" category="sidebar">Service de stockage de fichiers haute performance dans Azure pour vos principales applications d'entreprise.</block>
 </blocks>
